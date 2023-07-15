@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-extension-repo.git"
+    "url": "https://github.com/ankush28/ConsoleLog-remover-VScode-extension.git"
   },
   "devDependencies": {
     "@types/vscode": "^1.80.0",
